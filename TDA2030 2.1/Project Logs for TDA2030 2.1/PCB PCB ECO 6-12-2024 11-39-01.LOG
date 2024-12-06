@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=J2 Old Footprint=Molex kk396 3P New Footprint=Molex kk100 3P
+Added Member To Class: ClassName=TDA2030 2.1 Member=Component J1 TERMINAL 2P
+Added Member To Class: ClassName=TDA2030 2.1 Member=Component R3 Pot stereo
+Added Member To Class: ClassName=TDA2030 2.1 Member=Component R4 100K
